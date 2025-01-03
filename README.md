@@ -51,7 +51,7 @@ pip install librouteros paramiko
 
 3.  Run the script:
 
-> python \<script_name\>.py
+> python microtik_diagnotic_tool.py
 
 **Output Example**
 
