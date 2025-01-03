@@ -37,9 +37,9 @@ pip install librouteros paramiko
 
 1.  Clone the repository and navigate to the project folder:
 
-> git clone \<your-repository-url\>
+> git clone \https://github.com/4xXR/Microtik_Diagnostic_Tool.git
 >
-> cd \<repository-folder\>
+> cd \Microtik_Diagnostic_Tool
 
 2.  Update the connection details in the script:
 
